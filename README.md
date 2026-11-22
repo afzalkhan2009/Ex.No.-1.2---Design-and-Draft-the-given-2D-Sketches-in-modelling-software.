@@ -22,16 +22,16 @@ technical drawings. In this experiment, the given engineering profile is created
 
 4. TOOLS USED
 
-1. Line Tool: Used to draw straight lines between selected points.
-2. Circle Tool: Used to create circles by specifying their centre and size.
-3. Arc Tool: Used to draw curved portions of the sketch.
-4. Rectangle Tool: Used to create rectangular profiles.
-5. Polygon Tool: Used to create regular polygonal shapes.
-6. Trim Tool: Used to remove unwanted portions of sketch geometry.
-7. Mirror Tool: Used to create symmetrical copies of selected geometry.
-8. Move/Copy Tool: Used to reposition or duplicate sketch elements.
-9. Dimension Tool: Used to assign dimensions and control the size of sketch elements.
-10. Inspect Tool: Used to measure and verify distances and other dimensions.
+ Line Tool: Used to draw straight lines between selected points.
+ Circle Tool: Used to create circles by specifying their centre and size.
+ Arc Tool: Used to draw curved portions of the sketch.
+ Rectangle Tool: Used to create rectangular profiles.
+ Polygon Tool: Used to create regular polygonal shapes.
+ Trim Tool: Used to remove unwanted portions of sketch geometry.
+ Mirror Tool: Used to create symmetrical copies of selected geometry.
+ Move/Copy Tool: Used to reposition or duplicate sketch elements.
+ Dimension Tool: Used to assign dimensions and control the size of sketch elements.
+ Inspect Tool: Used to measure and verify distances and other dimensions.
 
 
 5. PROCEDURE
